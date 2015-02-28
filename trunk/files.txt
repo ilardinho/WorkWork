@@ -1,0 +1,39 @@
+=----------------------------------------
+= Ohjelmointi 2, 2012
+=----------------------------------------
+=
+@https://trac.cc.jyu.fi/projects/ohj2/browser/vesal = Työ versionhallinnassa
+= <h3>Ohjelman avustus</h3>
+kuvat/startscreen.png = kuva ohjelman alusta
+kuvat/laskutusikkuna.png = Laskutusikkuna
+kuvat/paaikkuna.png = Ohjelman päänäkymä
+kuvat/startscreen.png = Aloitusikkuna
+kuvat/tiedotikkuna.png = Tietoikkuna
+kuvat/tilauksetikkuna.png = Tilaukset -ikkuna
+kuvat/tulostusikkuna.png = Tulostusikkuna
+
+= <h3>Ohjelman esisuunnitelma</h3>
+!https://trac.cc.jyu.fi/projects/ohj2k12/wiki/suunnitelmat/miiljall = Suunnitelma Wikissä
+=
+kuvat/mainview.png = ohjelman pääikkunan
+kuvat/startscreen.png = kuva ohjelman alusta
+kuvat/startscreen.png = Aloitusikkuna
+
+= <h3>Käyttöliittymän ulkoasu WindowBuilderillä</h3>
+src/workworkGUI/EditPanel.java = Komponentti, jossa tekstikenttä ja otsikko
+src/workworkGUI/Paaikkuna.java = Pääikkuna, ohjelman main view
+src/workworkGUI/MenuPalkki.java = Menupalkki
+src/workworkGUI/TiedotPanel.java = Tiedot -paneeli
+src/workworkGUI/TilauksetPanel.java = Tilaukset -paneeli
+src/workworkGUI/TulostusDialogi.java = Tulostusdialogi
+src/workworkGUI/Versio.java = Versioikkuna
+
+
+= <h3>Jarria ja muuta</h3>
+workwork.jar = Jarri workworkistä
+build.xml = Build -tiedosto
+
+= <h3>crc ja semmosta</h3>
+kuvat/workworkastil.png = JepJep
+
+src/crckortit.htm = crckortit
